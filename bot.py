@@ -3,7 +3,6 @@ from selenium import webdriver
 from selenium.webdriver import Remote
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.remote.webdriver import WebDriver as RemoteWebDriver
-from keepSessions import *
 import re
 from unicodedata import normalize
 
